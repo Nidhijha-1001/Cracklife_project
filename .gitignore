@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.streamlit/secrets.toml
+journal.json
+.DS_Store
+.coverage
+.pytest_cache/

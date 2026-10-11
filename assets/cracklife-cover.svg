@@ -1,0 +1,51 @@
+<svg width="1200" height="675" viewBox="0 0 1200 675" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sky" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#dff5d8"/>
+      <stop offset="100%" stop-color="#f7f3d7"/>
+    </linearGradient>
+    <linearGradient id="ground" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#2d5a3d"/>
+      <stop offset="100%" stop-color="#18372b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#sky)"/>
+  <circle cx="970" cy="100" r="62" fill="#f9d36d" opacity="0.8"/>
+  <rect y="440" width="1200" height="235" fill="url(#ground)"/>
+  <path d="M0 455 L230 420 L410 455 L580 410 L760 455 L910 418 L1200 455 V675 H0 Z" fill="#264b39" opacity="0.7"/>
+  <rect x="220" y="265" width="150" height="180" fill="#6b716b" opacity="0.9"/>
+  <rect x="390" y="290" width="110" height="155" fill="#757f72" opacity="0.85"/>
+  <rect x="520" y="250" width="170" height="195" fill="#727d70" opacity="0.88"/>
+  <rect x="740" y="278" width="145" height="167" fill="#6d726d" opacity="0.82"/>
+
+  <g fill="#4b8b57">
+    <path d="M 160 480 C 145 450, 142 423, 168 405 C 192 422, 193 450, 180 480 Z"/>
+    <path d="M 250 470 C 240 443, 238 420, 258 400 C 280 420, 280 447, 270 470 Z"/>
+    <path d="M 360 468 C 345 438, 344 412, 366 394 C 388 410, 390 440, 381 468 Z"/>
+    <path d="M 610 472 C 595 440, 592 415, 618 396 C 641 414, 642 443, 630 472 Z"/>
+    <path d="M 845 470 C 830 440, 826 417, 848 400 C 872 420, 873 446, 860 470 Z"/>
+  </g>
+
+  <g fill="#d7c27f">
+    <circle cx="272" cy="245" r="15"/>
+    <circle cx="699" cy="220" r="18"/>
+    <circle cx="936" cy="260" r="17"/>
+  </g>
+
+  <g fill="#f0f4ec">
+    <circle cx="950" cy="210" r="25" fill="#f4f5ee"/>
+    <path d="M 950 235 L 950 300" stroke="#f4f5ee" stroke-width="8" stroke-linecap="round"/>
+    <path d="M 965 250 L 1010 275" stroke="#f4f5ee" stroke-width="8" stroke-linecap="round"/>
+    <path d="M 935 250 L 890 275" stroke="#f4f5ee" stroke-width="8" stroke-linecap="round"/>
+  </g>
+
+  <g fill="#1b5d35">
+    <path d="M 1040 470 C 1025 425, 1015 404, 1068 392 C 1078 420, 1082 455, 1074 470 Z"/>
+    <path d="M 1112 470 C 1097 432, 1087 412, 1142 404 C 1152 433, 1153 464, 1144 470 Z"/>
+  </g>
+
+  <text x="90" y="120" font-family="Arial, sans-serif" font-size="76" font-weight="700" fill="#18372b">CrackLife</text>
+  <text x="90" y="180" font-family="Arial, sans-serif" font-size="34" fill="#29513c">AI field guide to urban biodiversity</text>
+  <rect x="90" y="206" width="370" height="12" rx="6" fill="#6fbb76"/>
+  <text x="90" y="290" font-family="Arial, sans-serif" font-size="24" fill="#1c2d23">Notice hidden life in the city.</text>
+</svg>
