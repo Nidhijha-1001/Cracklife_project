@@ -2,21 +2,6 @@
 
 CrackLife is a local-first AI field guide for noticing the tiny ecosystems hiding in cities. It turns a short walk into a structured, safe observation quest and keeps a private field journal on the user's machine.
 
-## Challenge fit
-
-Verified from the official Week 1 DEV challenge page:
-- Challenge: Hacktoberfest Open-Source AI Challenge: Week 1 — Touch Grass
-- Submissions due: October 11, 2026 at 11:59 PM PDT
-- Theme: build with open-source AI and get people outside
-- Judging emphasis: writing quality, relevance to the theme, creativity, technical execution, and optional partner technology use
-- Prize structure: one overall winner plus featured and partner category prizes, per the challenge page
-
-This project fits the theme directly because it uses local open-weight AI to generate short, safety-aware outdoor quests for urban biodiversity observation.
-
-## Strongest realistic category
-
-The strongest realistic fit is the Best Use of Gemma category because the project is built around running open-weight AI locally and making model choice matter for privacy and control. It also aligns with the general challenge theme and can be framed as a practical field guide for urban nature observation.
-
 ## Why this project is differentiated
 
 Instead of a generic chatbot, CrackLife turns the AI into a guided, real-world discovery tool:
